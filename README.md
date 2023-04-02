@@ -1,2 +1,2 @@
 # Interns.pk-Tasks
-This repository contain all gives projects and task during interns.pk internship
+This repository contain all gives projects and tasks during interns.pk internship
